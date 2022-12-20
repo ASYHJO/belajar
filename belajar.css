@@ -1,0 +1,31 @@
+*,
+html,
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    text-transform: capitalize;
+}
+
+.wreper{
+    margin: 10px 25px;
+    text-decoration: none;
+}
+.tangal-lahir{
+    margin-bottom: 10px;
+}
+img{
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+a{
+
+    border-radius: 20px;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
